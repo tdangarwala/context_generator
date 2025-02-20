@@ -12,16 +12,6 @@ The end goal would be for this to be an internal company tool with a model train
 - RAG Pipeline -> based on query, retrieve relevant company documents (prevents hallucination), provide context-driven answer based on those documents alone
 
 
-# How does recruiting work today?
-
-
-
-
-
-
-# Project Results
-
-
 
 
 
